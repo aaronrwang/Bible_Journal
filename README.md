@@ -20,4 +20,10 @@ flutter build ios
 flutter run --release
 ```
 
-STILL IN PROGRESS
+ ## STILL IN PROGRESS
+
+ ### Sample Screenshots
+
+<img src="./demo/home.png" alt="Home page" width="300" />
+<img src="./demo/prayer.png" alt="Prayer page" width="300" />
+
